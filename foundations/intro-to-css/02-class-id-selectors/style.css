@@ -11,3 +11,9 @@
 .odd.cooler {
     font-size: 24px;
 }
+
+#bold-green {
+    background-color: #AAFFAA;
+    font-size: 24px;
+    font-weight: bold;
+}
